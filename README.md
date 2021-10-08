@@ -1,4 +1,4 @@
-# Gradient representations in ReLU networks as similarity function
+# Gradient representations in ReLU networks as similarity functions
 
 by
 Dániel Rácz and
